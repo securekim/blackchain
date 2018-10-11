@@ -1,0 +1,7 @@
+
+    //tenant: "e458207d-8740-4c5d-ac13-10e9af827faf",
+    tenant:"bykim910116gmail.onmicrosoft.com", 
+    clientId:"8e794d00-2d77-40c8-a1a5-81d241357387", 
+    secret:"PLLxMvPIY4ZSQsh7ssu5wnKimY0ffXV5+xc23SJqXhM=", 
+    redirectUri:"http://localhost:51369/signin-oidc",
+    //resource : "8e794d00-2d77-40c8-a1a5-81d241357387"
